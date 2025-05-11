@@ -10,7 +10,7 @@ It follows a clear and simple structure to make the authentication flow easy to 
 - Custom JWT filter (`OncePerRequestFilter`)
 - Spring Boot & Spring Security-based setup
 
-#Requiered for running the project
+#Required for running the project
 
 1.**Create your own application.properties file**
 Make sure to create your own application.properties file in the appropriate directory. This file is required for configuring application-specific settings.
