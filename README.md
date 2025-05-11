@@ -14,7 +14,6 @@ It follows a clear and simple structure to make the authentication flow easy to 
 
 1.**Create your own application.properties file**
 Make sure to create your own application.properties file in the appropriate directory. This file is required for configuring application-specific settings.
-
 2. **Generate a jwt_secret_key**
 You need to generate and configure your own jwt_secret_key for secure JWT token generation. Add the key to your application.properties file to ensure proper authentication.
  
