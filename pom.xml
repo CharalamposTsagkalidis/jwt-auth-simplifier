@@ -73,7 +73,7 @@
             <artifactId>spring-security-web</artifactId>
         </dependency>
 		<!-- 
-		ebereything contains web stuff like RestController,RequestMapping
+		evereything contains web stuff like RestController,RequestMapping
 		-->
 		<dependency>
             <groupId>org.springframework.boot</groupId>
